@@ -1,0 +1,17 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="32" height="32" rx="8" fill="url(#gradient)" />
+  <path d="M8 13.33a2.67 2.67 0 0 1 2.67-2.66h2.66a2.67 2.67 0 0 1 0 5.33h-2.66A2.67 2.67 0 0 1 8 13.33Z" fill="white" fill-opacity="0.9" />
+  <path d="M13.33 16h5.34" stroke="white" stroke-width="2" stroke-linecap="round" />
+  <path d="M18.67 18.67a2.67 2.67 0 0 0 2.66-2.67h2.67a2.67 2.67 0 0 0 0-5.33h-2.67a2.67 2.67 0 0 0-2.66 2.66v5.34Z" fill="white" fill-opacity="0.9" />
+  <circle cx="24" cy="13.33" r="1.33" fill="url(#accentGradient)" />
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3B82F6" />
+      <stop offset="100%" stop-color="#7C3AED" />
+    </linearGradient>
+    <linearGradient id="accentGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#22D3EE" />
+      <stop offset="100%" stop-color="#F59E0B" />
+    </linearGradient>
+  </defs>
+</svg>
